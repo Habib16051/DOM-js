@@ -1,3 +1,3 @@
-let x = document.querySelector('.child')
+let ParentDiv = document.querySelector(".menu");
 
-console.log(child.parentNode)
+console.log(ParentDiv.lastElementChild);
